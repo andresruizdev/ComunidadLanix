@@ -119,10 +119,11 @@ header a:hover{
 }
 
 #showcase h1{
+  padding-right: 2px;
   font-family: 'Julius Sans One', sans-serif;
-  font-size: bolder;
+  font-size: bold;
   margin-top:100px;
-  font-size:50px;
+  font-size:55px;
   margin-bottom: 10px;
 }
 
