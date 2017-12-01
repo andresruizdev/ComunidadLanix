@@ -234,5 +234,11 @@ footer{
     margin-bottom: 5px;
   }
 
+  #boxes .boxD{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 25px;
+  }
+
 
 }
